@@ -1,0 +1,7 @@
+vehicleID=QJT123, description=Starlet 99, status=A, dailyRate=35.0, odometer=190000
+vehicleID=TUX132, description=BMW 05, status=A, dailyRate=90.0, odometer=12000
+vehicleID=PTU121, description=Holden 03, status=A, dailyRate=60.0, odometer=165000
+vehicleID=OCD856, description=Camry 04, status=A, dailyRate=65.0, odometer=230000
+vehicleID=TEY749, description=Jaguar 06, status=A, dailyRate=125.0, odometer=27000
+vehicleID=TYR852, description=Subaru 02, status=A, dailyRate=60.0, odometer=270000
+vehicleID=TEY749, description=Jaguar 06, status=A, dailyRate=125.0, odometer=27000
